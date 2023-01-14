@@ -1,10 +1,10 @@
 import React from 'react';
-
-
+import Menu from './Menu';
+import Test from './test';
 function Body() {
     return ( 
         <div>
-            <h1>body</h1>
+            <Menu />
         </div>
      );
 }

@@ -8,7 +8,7 @@ const MainComponent = ()=>  {
     return ( 
         <div>
             <Header />
-            <Body />
+            <Body/>
             <Footer />
         </div>
      );
