@@ -6,7 +6,7 @@ import Body from './Body/Body';
 
 const MainComponent = ()=>  {
     return ( 
-        <div>
+        <div className='container'>
             <Header />
             <Body/>
             <Footer />

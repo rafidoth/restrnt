@@ -13,7 +13,7 @@ class Menu extends Component {
             );
         })
         return (
-            <div>
+            <div className='d-flex justify-content-between'>
                 {item}
             </div>
         );

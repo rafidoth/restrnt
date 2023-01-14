@@ -6,9 +6,7 @@ function NavBar() {
     return ( 
         <div>
             <Navbar color='danger' dark >
-                 <div className="container">
-                    <NavbarBrand href="/">ReactFood</NavbarBrand>
-                 </div>
+                <NavbarBrand href="/">ReactFood</NavbarBrand>
             </Navbar>
         </div>
      );
